@@ -45,3 +45,6 @@ plan-out
 virtualbox.box
 ubuntu.box
 centos.box
+
+# Liberando o terraform.tfvars para este projeto
+!terraform.tfvars
