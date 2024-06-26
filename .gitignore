@@ -32,3 +32,16 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Env files
+.env
+
+# Plan files
+plan-vbox
+plan-file
+plan-out
+
+# Vagrant files
+virtualbox.box
+ubuntu.box
+centos.box
